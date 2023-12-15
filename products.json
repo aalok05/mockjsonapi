@@ -3,35 +3,30 @@
     "name": "Astronaut Alarm Clock",
     "description": "Wake up to the thrill of spaceflight with this interactive alarm clock. Project realistic constellations onto your ceiling and hear authentic NASA mission audio.",
     "price": 49.99,
-    "image": "https://example.com/astronaut-alarm-clock.jpg",
     "category": "Home & Living"
   },
   {
     "name": "Self-Watering Bonsai Kit",
     "description": "Cultivate miniature zen gardens with ease! This kit includes a self-watering pot, soil, seeds, and a miniaturized landscape to create a thriving bonsai masterpiece.",
     "price": 24.95,
-    "image": "https://example.com/self-watering-bonsai-kit.jpg",
     "category": "Hobbies & Crafts"
   },
   {
     "name": "Pocket-Sized Projector",
     "description": "Transform any surface into a movie screen! This portable projector fits in your pocket and projects crisp images from your phone or tablet.",
     "price": 149.00,
-    "image": "https://example.com/pocket-sized-projector.jpg",
     "category": "Electronics"
   },
   {
     "name": "Emotion-Detecting Mood Lamp",
     "description": "This lamp adjusts its color and brightness based on your mood, creating a calming or energizing atmosphere. It even syncs with your music for a truly immersive experience.",
     "price": 79.99,
-    "image": "https://example.com/emotion-detecting-mood-lamp.jpg",
     "category": "Home & Living"
   },
   {
     "name": "Talking Translator Earbuds",
     "description": "Break down language barriers in real-time! These earbuds translate spoken words into your preferred language, making travel and communication effortless.",
     "price": 199.95,
-    "image": "https://example.com/talking-translator-earbuds.jpg",
     "category": "Travel"
   }
 ]
